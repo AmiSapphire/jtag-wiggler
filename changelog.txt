@@ -1,0 +1,38 @@
+Changelog
+These were formerly in the schematic and PCB files as comments.
+
+---
+
+Schematic - Main JTAG Section
+
+2023/05/31 - Original Revision
+2023/06/02 - Revision 1.1: Fixes schematic parity with PCB
+2023/06/03 - Revision 1.2: Identify wires with global labels (affects PCB design)
+2023/06/04 - Revision 1.3: R14-R17 consistency change with PCB layout
+2023/06/06 - Revision 1.4: 74HCT244 symbol tied to specific project for publication - schematic finalized!
+
+
+Schematic - Dual Power Supply Section
+
+2023/05/31 - Original Revision
+2023/06/02 - Revision 1.1: Fixes voltage pinouts on DPDT switch
+             Fixes schenatic parity with PCB
+2023/06/04 - Revision 1.2: General cleanup - schematic finalized!
+
+
+PCB - Complete Layout
+
+2023/06/02 - Original Revision
+2023/06/03 - Revision 1.1: Easy-to-read PCB nets and general cleanup (this required schematic changes)
+2023/06/04 - Revision 1.2: Routing cleanup and Schematic credits
+2023/06/04 - Revision 1.3: Major routing change regarding the barrel jack - potential
+                             safety issue due to the JTAG header being near the power jack
+                           Labeling of certain functions
+                           Even more routing and general cleanup
+                           Via size change
+2023/06/05 - Revision 1.4: Implemented mounting holes
+                           Slightly reworded schematic credits
+                           Text labeling consistency changes
+2023/06/06 - Revision 1.5: Change diode footprint
+                           Add diode series range
+                           Change design check preferences - board finalized!
