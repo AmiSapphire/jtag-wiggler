@@ -41,5 +41,5 @@ Other Components
 (1) 2N3904 transistor
 (1) DO-41 diode, 1N4004 to 1N4007
 (1) barrel jack, 5.5mm x 2.1mm, female, 3 prong
-(1) DPDT ON-ON switch, 2.54mm x 5.08mm pin spacing
+(1) Sub-miniature DPDT ON-ON switch, 2.54mm x 5.08mm pin spacing
 (2) LM1117T-ADJ or LD1117 LDO regulator

@@ -36,7 +36,8 @@ R19 - 1/4W resistor, 330 to 5K1 (VREF LED current limiter) [4]
 Dual Power Supply Section
 
 J2 - Barrel Jack, 5.5mm x 2.1mm, female, 3 prong (VCC)
-SW1 - DPDT ON-ON switch, 2.54mm pin spacing (3V3/5V0 power switch)
+SW1 - Sub-miniature DPDT ON-ON switch, 2.54mm x 5.08mm pin spacing (3V3/5V0
+  power switch)
 U2 - LM1117T-ADJ or LD1117 LDO regulator (3V3 power supply)
 U3 - LM1117T-ADJ or LD1117 LDO regulator (5V0 power supply)
 D2 - 5mm LED, Green (3V3 power indicator)
