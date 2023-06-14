@@ -61,7 +61,8 @@ Notes
 
 [1] The US standard is preferred, as this board is designed in the US. The
     European standard may fit, but the installation may be off by ~1.3mm; it
-    will slightly stick out. An European variant will be created soon.
+    will slightly stick out. For the European standard, please use the
+    jtag-wiggler_euro PCB.
 
     US standard
     board edge to nearest pin line: ~8.08mm
