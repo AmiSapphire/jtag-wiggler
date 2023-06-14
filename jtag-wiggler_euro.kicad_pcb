@@ -7,9 +7,10 @@
   (paper "A4")
   (title_block
     (title "JTAG - Wiggler (Complete PCB Layout)")
-    (date "2023-06-06")
-    (rev "1.5")
+    (date "2023-06-14")
+    (rev "1.5.1")
     (company "Clarissa Walker")
+    (comment 1 "European Standard")
   )
 
   (layers
